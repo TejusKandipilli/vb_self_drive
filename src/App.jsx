@@ -11,7 +11,7 @@ const App = () => {
     const bookingUrl = "https://wa.me/918688516662";
 
     // Logo URL - Replace with your actual logo URL
-    const logoUrl = "public/VB.jpg";
+    const logoUrl = "/VB.jpg";
 
     const cars = [
         {
