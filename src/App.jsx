@@ -100,7 +100,7 @@ const App = () => {
                         {/* Premium Logo with Image */}
                         <div className="flex items-center space-x-3">
                             <div className="relative">
-                                <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-xl flex items-center justify-center shadow-lg overflow-hidden">
+                                <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-xl flex items-center justify-center shadow-lg overflow-hidden">
                                     <img
                                         src={logoUrl}
                                         alt="VB Self Drive Cars Premium Rentals Logo"
@@ -121,8 +121,8 @@ const App = () => {
                                 <div className="absolute -top-1 -right-1 w-4 h-4 bg-orange-400 rounded-full"></div>
                             </div>
                             <div>
-                                <div className="text-xl font-bold text-slate-800">VB Self Drive Cars</div>
-                                <div className="text-xs text-slate-500 -mt-1">Premium Rentals</div>
+                                <div className="text-2xl font-bold text-slate-800">VB Self Drive Cars</div>
+                                <div className="text-xs text-slate-500 -mt-1">Phone: +91 86885 16662</div>
                             </div>
                         </div>
 
@@ -587,7 +587,7 @@ const App = () => {
                             {/* Logo with Image */}
                             <div className="flex items-center space-x-3">
                                 <div className="relative">
-                                    <div className="w-16 h-20 bg-gradient-to-b from-slate-800 to-slate-900 rounded-lg flex flex-col items-center justify-center relative overflow-hidden p-2">
+                                    <div className="w-50 h-50 bg-gradient-to-b from-slate-800 to-slate-900 rounded-lg flex flex-col items-center justify-center relative overflow-hidden p-2">
                                         <img
                                             src={logoUrl}
                                             alt="VB Self Drive Cars Self Driving Cars Logo"
