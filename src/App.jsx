@@ -19,7 +19,7 @@ const App = () => {
             type: "5 Seater Hatchback",
             rating: 4.0,
             image: "🚗",
-            imageUrl: "public/baleno.jpg",
+            imageUrl: "/baleno.jpg",
             price: "₹1,800",
             originalPrice: "₹2,000",
             features: ["5 seater", "4 ⭐ safety rating", "5 gear manual drive"]
@@ -29,7 +29,7 @@ const App = () => {
             type: "5 Seater Hatchback",
             rating: 4.0,
             image: "🚗",
-            imageUrl: "public/swift.jpg",
+            imageUrl: "/swift.jpg",
             price: "₹1,800",
             features: ["5 seater", "4 ⭐ rating", "5 gear Manual drive"]
         },
@@ -37,7 +37,7 @@ const App = () => {
             name: "Maruti Suzuki Alto",
             type: "5 Seater Hatchback",
             image: "🚙",
-            imageUrl: "public/alto.jpg",
+            imageUrl: "/alto.jpg",
             price: "₹1,000",
             features: ["5 seater car", "Manual drive", "Easy to GO", "Budget friendly", "Well maintained"]
         },
@@ -45,7 +45,7 @@ const App = () => {
             name: "Maruti Suzuki Dzire",
             type: "5 Seater Sedan",
             image: "🚘",
-            imageUrl: "public/dzire.jpg",
+            imageUrl: "/dzire.jpg",
             price: "₹2,000",
             features: ["Automatic drive", "5 seater"]
         }
