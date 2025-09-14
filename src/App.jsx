@@ -36,6 +36,7 @@ const App = () => {
         {
             name: "Maruti Suzuki Alto",
             type: "5 Seater Hatchback",
+            rating: 4.0,
             image: "🚙",
             imageUrl: "/alto.jpg",
             price: "₹1,000",
@@ -44,6 +45,7 @@ const App = () => {
         {
             name: "Maruti Suzuki Dzire",
             type: "5 Seater Sedan",
+            rating: 4.0,
             image: "🚘",
             imageUrl: "/dzire.jpg",
             price: "₹2,000",
